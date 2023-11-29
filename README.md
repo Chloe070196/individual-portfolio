@@ -19,4 +19,4 @@
   
 ## Links
 
-- repo:  https://github.com/Chloe070196/portfolio)https://github.com/Chloe070196/portfolio
+- repo:  https://github.com/Chloe070196/portfolio
