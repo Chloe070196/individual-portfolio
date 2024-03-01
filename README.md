@@ -1,5 +1,12 @@
 ## about my portfolio:
 
+## Links
+
+- NEW repo: [https://github.com/Chloe070196/my-portfolio](https://github.com/Chloe070196/my-portfolio)
+- NEW deployed website: [my-portfolio-gilt-alpha-99.vercel.app](https://my-portfolio-gilt-alpha-99.vercel.app/)
+
+- NOTE: the old portfolio (repo:  https://github.com/Chloe070196/portfolio) will likely be dropped fully. 
+
 ### planning: 
 
 #### process / resources used
@@ -17,6 +24,4 @@
 - CSS (planning to use Tailwind for that later)
   I'll go with what I've been taught for what I need to get done now, and I'll play around with framework on less time-sensitive projects
   
-## Links
-
-- repo:  https://github.com/Chloe070196/portfolio
+  
