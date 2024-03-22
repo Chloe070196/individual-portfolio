@@ -3,7 +3,7 @@
 ## Links
 
 - NEW repo: [https://github.com/Chloe070196/my-portfolio](https://github.com/Chloe070196/my-portfolio)
-- NEW deployed website: [my-portfolio-gilt-alpha-99.vercel.app](https://my-portfolio-gilt-alpha-99.vercel.app/)
+- NEW deployed website: [https://chloe-zermatten-portfolio.vercel.app/](https://chloe-zermatten-portfolio.vercel.app/)
 
 - NOTE: the old portfolio (repo:  https://github.com/Chloe070196/portfolio) will likely be dropped fully. 
 
